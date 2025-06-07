@@ -1,0 +1,9 @@
+numpy
+pandas
+fireducks
+pygraphviz
+networkx
+matplotlib
+scipy
+scikit-learn
+pydantic
